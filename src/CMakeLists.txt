@@ -1,0 +1,1 @@
+add_executable(brainfuck brainfuck.c Stack.c Stack.h debug.c debug.h error.c error.h)

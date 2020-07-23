@@ -1,0 +1,1 @@
+.\build\src\brainfuck.exe $args[0]
