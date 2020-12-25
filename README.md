@@ -1,2 +1,2 @@
 # brainfuck-interpreter
-An okay-ish brainfuck interpreter. Makes no optimizations.
+An okay-ish Brainfuck interpreter written in C. Makes no optimizations.
